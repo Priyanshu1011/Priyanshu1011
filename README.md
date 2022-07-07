@@ -15,7 +15,7 @@
 <hr>
 
 ### My Socials:
-<a href="https://www.instagram.com/_priyanshu1011/" target="_blank"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/40px-Instagram_icon.png" /></a>&nbsp;&nbsp;<a href="https://in.linkedin.com/in/priyanshu-pattanaik-627478220" target="_blank"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/64/174/174857.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/PRlYANSHU" target="_blank"><img height="50" width="50" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" /></a>
+<a href="https://www.instagram.com/_priyanshu1011/" target="_blank"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/40px-Instagram_icon.png" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/priyanshu-pattanaik/" target="_blank"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/64/174/174857.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/Priyanshu_1011" target="_blank"><img height="50" width="50" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" /></a>
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu1011&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
