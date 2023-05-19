@@ -4,10 +4,10 @@
 
 ### About Me:
 - 👨‍💻 I'm excited to learn new technologies.
-- 🔭 I’m interested in full-stack Web Development, Computer Vision
-- 🌱 I’m currently learning JS, C++, opencv
+- 🔭 I’m interested in full-stack Web Development, Graphic Designing
+- 🌱 I’m currently learning C++, Adobe Illustrator
 - 😄 Pronouns: he/him
-- 📫 Reach out to me at: <i>hi_priyanshu@outlook.com</i>
+- 📫 Reach out to me at: <i>priyanshu.pattanaik1011@gmail.com</i>
 <hr>
 
 ### Languages and Tools:
