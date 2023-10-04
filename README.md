@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Priyanshu Pattanaik 😀</h1>
 <h3 align="center">A full-stack Web Developer exploring ML, an aspiring entrepreneur, and a blogger.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1011&label=Profile%20Peeks&color=1100ff&style=flat-square&base=69" alt="priyanshu1011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1011&label=Profile%20Peeks&color=1100ff&style=flat-square" alt="priyanshu1011" /> </p>
 
 🛠️ I’m currently working on **craftersAI and an NGO website**
 
