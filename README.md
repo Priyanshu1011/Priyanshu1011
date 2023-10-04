@@ -1,24 +1,63 @@
-# Hey there! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40"> I'm Priyanshu Pattanaik😁
+<h1 align="center">Hey there! I'm Priyanshu Pattanaik 😀</h1>
+<h3 align="center">A full-stack Web Developer exploring ML, an aspiring entrepreneur, and a blogger.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1011&label=Profile%20Peeks&color=1100ff&style=flat-square" alt="priyanshu1011" /> </p>
 
+🛠️ I’m currently working on **craftersAI and an NGO website**
 
-### About Me:
-- 👨‍💻 I'm excited to learn new technologies.
-- 🔭 I’m interested in full-stack Web Development, Graphic Designing
-- 🌱 I’m currently learning C++, Adobe Illustrator
-- 😄 Pronouns: he/him
-- 📫 Reach out to me at: <i>priyanshu.pattanaik1011@gmail.com</i>
-<hr>
+🔭 I’m currently tinkering with **Next.js, Three.js and ML**
 
-### Languages and Tools:
-<a href="https://www.python.org/" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>   <a href="https://www.mysql.com/" target="_blank"><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></a>   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></a>   <a href="https://www.java.com/en/" target="_blank"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></a>
-<hr>
+🙌 I’m looking to collaborate on projects related to **Web Development, UI/UX designing or Machine Learning**
 
-### My Socials:
-<a href="https://www.instagram.com/_priyanshu1011/" target="_blank"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/40px-Instagram_icon.png" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/priyanshu-pattanaik/" target="_blank"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/64/174/174857.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/Priyanshu_1011" target="_blank"><img height="50" width="50" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" /></a>
-<hr>
+📝 I occasionally write blogs on [https://medium.com/@Priyanshu1011](https://medium.com/@Priyanshu1011)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu1011&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+💬 I'm open to conversations about **MERN stack, C/C++, Entrepreneurship**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1011&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+✉️ Reach out to me at **priyanshu.pattanaik1011@gmail.com**
 
+📄 My experiences in brief: [https://drive.google.com/file/d/1zCSantJQnYUaCpz43OEZ6nD2AeVhJV3o/view](https://drive.google.com/file/d/1zCSantJQnYUaCpz43OEZ6nD2AeVhJV3o/view)
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu-pattanaik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="priyanshu-pattanaik" height="35" width="35" /></a>&nbsp;
+<a href="https://twitter.com/priyanshu_1011" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="priyanshu_1011" height="38" width="38" /></a>&nbsp;
+<a href="https://medium.com/@priyanshu1011" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="@priyanshu1011" height="35" width="35" /></a>&nbsp;
+<a href="https://hashnode.com/@priyanshu1011" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@priyanshu1011" height="35" width="35" /></a>&nbsp;
+<a href="https://www.leetcode.com/priyanshu1011" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="priyanshu1011" height="38" width="35" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="jquery" width="40" height="40"/> </a>&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="express" width="65" height="40" /> </a>&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="ejs" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+</p>
+
+### My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu1011&show_icons=true&theme=dark&title_color=64CCC5&text_color=FFF5E0&bg_color=071952&locale=en&layout=compact" alt="priyanshu1011" height=195 /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1011&show_icons=true&title_color=64CCC5&text_color=FFF5E0&theme=cobalt&bg_color=071952&locale=en" alt="priyanshu1011" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu1011&theme=dark" alt="priyanshu1011" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu1011" alt="priyanshu1011" /></a> </p>
