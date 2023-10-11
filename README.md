@@ -53,8 +53,11 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Endless Beauty of Fractals](https://priyanshupattanaik.hashnode.dev/the-endless-beauty-of-fractals)
-- [Colour Theory](https://priyanshupattanaik.hashnode.dev/colour-theory)
+- [Setting Up Shop: Physical Location vs. Online Presence](https://medium.com/@Priyanshu1011/setting-up-shop-physical-location-vs-online-presence-32b2faece6ff?source=rss-85dab7c97519------2)
+- [Building a Winning Team: Hiring, Onboarding, and Culture](https://medium.com/@Priyanshu1011/building-a-winning-team-19c7d16f2a9?source=rss-85dab7c97519------2)
+- [Creating a Solid Business Plan: Your Roadmap to Success](https://medium.com/@Priyanshu1011/creating-a-solid-business-plan-631b8391c802?source=rss-85dab7c97519------2)
+- [Crafting a Unique Value Proposition: Standing Out in the Market](https://medium.com/@Priyanshu1011/crafting-a-unique-value-proposition-ded6063900b0?source=rss-85dab7c97519------2)
+- [Conducting Market Research: Identifying Your Target Audience](https://medium.com/@Priyanshu1011/conducting-market-research-9e22556dc468?source=rss-85dab7c97519------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">GitHub Stats</h3>
