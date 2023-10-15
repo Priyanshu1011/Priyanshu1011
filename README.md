@@ -39,6 +39,7 @@
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="assets/ejs-logo.png" alt="ejs" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/mongodb-logo.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/git-logo.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="assets/markdown-logo.png" alt="markdown" width="45" height="40"/> </a>&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="assets/c-logo.svg" alt="c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="assets/cpp-logo.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="assets/java-logo.svg" alt="java" width="40" height="40"/> </a>&nbsp;
