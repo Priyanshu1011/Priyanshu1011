@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1011&label=Profile%20Peeks&color=1100ff&style=flat-square" alt="priyanshu1011" /> </p>
 
-🛠️ I’m currently working on **craftersAI and an NGO website**
+🛠️ I'm a **Developer Advocate Intern** at Open Weaver.
 
 🔭 I’m currently tinkering with **Next.js, Three.js and ML**
 
@@ -15,7 +15,7 @@
 
 ✉️ Reach out to me at **priyanshu.pattanaik1011@gmail.com**
 
-📄 My experiences in brief: [https://drive.google.com/file/d/1zCSantJQnYUaCpz43OEZ6nD2AeVhJV3o/view](https://drive.google.com/file/d/1zCSantJQnYUaCpz43OEZ6nD2AeVhJV3o/view)
+📄 My experiences in brief: [Resume](https://drive.google.com/file/d/18hXz9fPnCd8YaPvAogWImxnX15wrWfos/view)
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
