@@ -54,11 +54,11 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data-Driven Decisions: Using Analytics to Drive Growth](https://medium.com/@Priyanshu1011/data-driven-decisions-using-analytics-to-drive-growth-51b52f1eac7a?source=rss-85dab7c97519------2)
 - [Outsourcing and Delegation: Focus on Core Activities](https://medium.com/@Priyanshu1011/outsourcing-and-delegation-e5622e9a47d8?source=rss-85dab7c97519------2)
 - [Going Global: Exploring International Markets](https://medium.com/@Priyanshu1011/going-global-exploring-international-markets-e7808da9ca97?source=rss-85dab7c97519------2)
 - [Expanding Your Product Line: Diversification and Innovation](https://medium.com/@Priyanshu1011/diversification-and-innovation-af56716fbf81?source=rss-85dab7c97519------2)
 - [Managing Growth: Strategies for Scaling Your Operations](https://medium.com/@Priyanshu1011/managing-growth-strategies-for-scaling-your-operations-2f86772297a8?source=rss-85dab7c97519------2)
-- [Building Customer Relationships: The Power of CRM](https://medium.com/@Priyanshu1011/building-customer-relationships-ef43804363a0?source=rss-85dab7c97519------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">GitHub Stats</h3>
