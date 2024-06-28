@@ -5,7 +5,7 @@
 
 🛠️ I'm a **student developer** at VIT Chennai.
 
-🧪 I'm an **Ex-Developer Advocate Intern** at Open Weaver and **Ex-Frontend Develeoper Intern** at Jivan Health.
+🧪 I'm an **Ex-Developer Advocate Intern** at Open Weaver and **Ex-Frontend Developer Intern** at Jivan Health.
 
 🔭 I’m currently tinkering with **Next.js, Three.js and AWS**
 
