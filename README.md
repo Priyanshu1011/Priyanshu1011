@@ -1,21 +1,23 @@
 <h1 align="center">Hey there! I'm Priyanshu Pattanaik 😀</h1>
-<h3 align="center">A full-stack Web Developer exploring ML, an aspiring entrepreneur, and a blogger.</h3>
+<h3 align="center">A full-stack Web Developer exploring cloud computing, an aspiring entrepreneur, and a blogger.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1011&label=Profile%20Peeks&color=1100ff&style=flat-square" alt="priyanshu1011" /> </p>
 
-🛠️ I'm a **Developer Advocate Intern** at Open Weaver.
+🛠️ I'm a **student developer** at VIT Chennai.
 
-🔭 I’m currently tinkering with **Next.js, Three.js and ML**
+🧪 I'm an **Ex-Developer Advocate Intern** at Open Weaver and **Ex-Frontend Develeoper Intern** at Jivan Health.
 
-🙌 I’m looking to collaborate on projects related to **Web Development, UI/UX designing or Machine Learning**
+🔭 I’m currently tinkering with **Next.js, Three.js and AWS**
+
+🙌 I’m looking to collaborate on projects related to **Web Development, DevOps or Cloud Computing**
 
 📝 I occasionally write blogs on [https://medium.com/@Priyanshu1011](https://medium.com/@Priyanshu1011)
 
-💬 I'm open to conversations about **MERN stack, C/C++, Entrepreneurship**
+💬 I'm open to conversations about **MERN stack, Cloud, C/C++, Entrepreneurship**
 
 ✉️ Reach out to me at **priyanshu.pattanaik1011@gmail.com**
 
-📄 My experiences in brief: [Resume](https://drive.google.com/file/d/16dvY70c4VmmArk-7PnX-eUaE2oYH3G03/view)
+📄 My experiences in brief: [Resume](https://drive.google.com/file/d/1xV-lhx37K8Aiw0LLUupISWe1GYY6WzUi/view)
 
 <h2 align="left">Connect with Me</h2>
 <p align="left">
