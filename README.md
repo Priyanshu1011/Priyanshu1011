@@ -17,7 +17,7 @@
 
 ✉️ Reach out to me at **priyanshu.pattanaik1011@gmail.com**
 
-📄 My experiences in brief: [Resume](https://drive.google.com/file/d/1xV-lhx37K8Aiw0LLUupISWe1GYY6WzUi/view)
+📄 My experiences in brief: [Resume](https://drive.google.com/file/d/1pi8VDNSWzmcviYA9mDj-E1KJjY6c-SYr/view)
 
 <h2 align="left">Connect with Me</h2>
 <p align="left">
